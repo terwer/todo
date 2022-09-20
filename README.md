@@ -8,6 +8,23 @@ https://developer.chrome.com/docs/extensions/
 
 https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/examples
 
+## Develop
+
+```
+yarn dev
+```
+
+http://localhost:5173/index/index.html
+
+http://localhost:5173/popup/index.html
+
+
+## build Chrome extension
+
+```
+yarn ext
+```
+
 ## Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
